@@ -1,0 +1,15 @@
+{
+  "name": "43-grupe-portfolio-neuron",
+  "version": "1.0.0",
+  "description": "43-grupe-portfolio-neuron",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --port=4322 --host=localhost"
+  },
+  "keywords": [],
+  "author": "Jurgita (https://github.com/Jurgita011)",
+  "license": "MIT",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
